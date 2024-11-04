@@ -2,10 +2,6 @@
 
 This code is associated with the paper **"Open Benchmark Dataset for AI-Based Quantitative Analysis of Meibomian Gland in Children and Adolescents"** by Li et al.
 
-<div align="center">
-    <img width="448" alt="overview2" src="https://github.com/user-attachments/assets/a98daeef-5fc5-4b37-9cb5-a111d4d78cb4">
-</div>
-
 ## Setup
 Install the following packages: `torch torchvision kornia opencv-python matplotlib PyYAML scikit-learn Pillow`
 Alternatively, create a virtual environments and install the packages of `requirements.txt` using the following command:
