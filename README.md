@@ -4,6 +4,7 @@ This code is associated with the paper **"Open Benchmark Dataset for AI-Based Qu
 
 ## Setup
 Install the following packages: `torch torchvision kornia opencv-python matplotlib PyYAML scikit-learn Pillow`
+
 Alternatively, create a virtual environments and install the packages of `requirements.txt` using the following command:
 ```bash
 pip3 install -r requirements.txt
@@ -16,4 +17,4 @@ We train the U-Net model and evaluate its performance on the Meibomian Gland dat
 python3 src/main.py
 ```
 ## Declaration
-This source code provides only some core functionalities. For more details, please contact `231027062@fzu.com`.
+This source code provides only some core functionalities. For more details, please contact `ljw@fzu.edu.cn` or `231027062@fzu.com`.
