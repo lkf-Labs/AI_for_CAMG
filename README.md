@@ -17,7 +17,7 @@ pip3 install -r requirements.txt
 Before running the experiment, you need to configure some relevant hyperparameters in the `train_config.yaml` file.
 We train the U-Net model and evaluate its performance on the Meibomian Gland dataset using the following command:
 ```bash
-python3 main.py
+python3 src/main.py
 ```
 ## Declaration
 This source code provides only some core functionalities. For more details, please contact `231027062@fzu.com`.
