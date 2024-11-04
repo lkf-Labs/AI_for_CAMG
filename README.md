@@ -4,8 +4,10 @@ This code is associated with the paper **"Open Benchmark Dataset for AI-Based Qu
 
 ## Introduction
 <div align="center">
+  ![overview1](https://github.com/user-attachments/assets/2d7ee251-d062-4771-8929-d70bfa51e48a)
 <img width="446" alt="overview" src="https://github.com/user-attachments/assets/a98daeef-5fc5-4b37-9cb5-a111d4d78cb4">
 </div>
+
 
 **Abstract**  Meibomian glands play a crucial role in maintaining tear film stability by secreting the lipid layer, and dysfunction of these glands is a major contributor to tear film instability and exacerbation of dry eye symptoms. Current evaluations heavily depend on clinicians' subjective judgment and experience, resulting in significant variability in diagnoses. The development of artificial intelligent (AI) algorithms relies on high-quality open datasets. To bridge the gap, we present a new open-access dataset named the Children and Adolescents Meibomian Gland (CAMG) dataset. This dataset includes 1,114 infrared images of upper eyelid meibomian glands from 600 participants aged 4 to 18 years, collected between June 2020 and July 2024. The images underwent preprocessing, including denoising and normalization, and were manually annotated by three junior ophthalmologists and one senior ophthalmologist. Subsequently, AI algorithms were used for segmentation, and the results were reviewed and corrected by an experienced ophthalmologist. The dataset also includes demographic data and various quantitative parameters of the meibomian glands, such as average gland count, length, width, area, and the characteristics of the central five glands. In addition, we provided meibomian gland parameters for children and adolescents of different ages and genders, offering a reference for clinical practice.
 
