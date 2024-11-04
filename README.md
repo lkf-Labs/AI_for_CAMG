@@ -23,3 +23,5 @@ We train the U-Net model and evaluate its performance on the Meibomian Gland dat
 ```bash
 python3 main.py
 ```
+## Declaration
+This source code provides only some core functionalities. For more details, please contact `231027062@fzu.com`.
