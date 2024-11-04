@@ -4,8 +4,8 @@ This code is associated with the paper **"Open Benchmark Dataset for AI-Based Qu
 
 ## Introduction
 <div style="display: flex; justify-content: center;">
-    <img width="446" alt="overview1" src="https://github.com/user-attachments/assets/87d5c84a-32c0-41c9-8de1-61220a517e0a" style="margin-right: 10px;">
-    <img width="446" alt="overview2" src="https://github.com/user-attachments/assets/a98daeef-5fc5-4b37-9cb5-a111d4d78cb4">
+    <img width="300" alt="overview1" src="https://github.com/user-attachments/assets/87d5c84a-32c0-41c9-8de1-61220a517e0a" style="margin-right: 10px;">
+    <img width="300" alt="overview2" src="https://github.com/user-attachments/assets/a98daeef-5fc5-4b37-9cb5-a111d4d78cb4">
 </div>
 
 
